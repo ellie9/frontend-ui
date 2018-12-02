@@ -1,4 +1,4 @@
-#웹프론트앤드 UI 실습
+# 웹프론트앤드 UI 실습
 * 일시 : 2018.12.01 ~ 2018.12.02
 * 수강생 : 훈련직종 교강사 
 
@@ -11,7 +11,7 @@
 > FrontEnd Ui 구현을 위한 HTML
 css, Javascript, jQuery 실습
 
-~~~~javascript
+````javascript
 $(document).ready(function() {
   /* Control Panel */
   $(window).resize(() => {
